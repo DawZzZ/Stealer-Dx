@@ -10,7 +10,7 @@
  </p>
 <p align="center"> 
   <kbd>
-<img src="https://i.redd.it/9vfqb0o839o91.png" width="328"></img>
+<img src="" width="328"></img>
   </kbd>
 </p>
 
